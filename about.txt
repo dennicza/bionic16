@@ -1,5 +1,3 @@
 Hello world! (c) emohat1r
 
-test project 4 git-training
-
 about.txt was changed in a new branch (c) dennicza
