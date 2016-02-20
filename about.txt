@@ -1,1 +1,3 @@
 test project 4 git-training
+
+changes were added
