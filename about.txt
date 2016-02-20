@@ -1,1 +1,1 @@
-test project 4 git-training (c) by emohat1r
+Hello world! (c) emohat1r
